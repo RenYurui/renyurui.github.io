@@ -24,3 +24,6 @@ I’m Yurui Ren, a Ph.D. student from Peking Univerity Shenzhen Graduated School
 - **Base-detail Image Inpainting** <br> Ruonan Zhang, **Yurui Ren**, Jingfei Qiu, Ge Li <br> BMVC2019 \| [Paper](https://bmvc2019.org/wp-content/uploads/papers/1116-paper.pdf) 
 
 - **A New Low-Light Image Enhancement Algorithm Using Camera Response Model** <br> Zhenqiang Ying, Ge Li, **Yurui Ren**, Ronggang Wang, Wenmin Wang <br> ICCV workshop 2017 \| [paper](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w43/Ying_A_New_Low-Light_ICCV_2017_paper.pdf)
+
+- **A New Image Contrast Enhancement Algorithm using Exposure Fusion Framework** <br> Zhenqiang Ying, Ge Li, **Yurui Ren**, Ronggang Wang, Wenmin Wang <br> CAIP 2017 \| [paper](https://link.springer.com/chapter/10.1007/978-3-319-64698-5_4) 
+
